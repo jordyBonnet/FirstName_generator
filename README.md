@@ -1,2 +1,3 @@
-# GAN_FRnames
-real french name generator
+# Firstname_generator
+
+First name generator
